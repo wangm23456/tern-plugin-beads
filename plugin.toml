@@ -1,0 +1,13 @@
+schema = 1
+id = "beads"
+name = "Beads"
+version = "0.1.0"
+description = "Beads issue tracker panel for Tern"
+host = "host.luau"
+window = "window.luau"
+
+[[blocks]]
+id = "main"
+title = "Beads Task Board"
+icon = "sparkle"
+palette = true
